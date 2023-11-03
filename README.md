@@ -3,8 +3,11 @@
 # Deployed Link
 https://youtube-by-ak.netlify.app/
 
-### SS
+### Home page
 ![Screenshot 2023-08-11 200008](https://github.com/arunkumar-gith/youtube/assets/71975018/6f2d02ce-ce16-4327-ae3d-7f2dc94bc774)
+
+### Channel page
+![Screenshot 2023-11-04 010309](https://github.com/arunkumar-gith/Food-MERN/assets/71975018/f9a890a4-f6fd-49c3-82c1-1d8a200ce43b)
 
 # Getting Started with Create React App
 
