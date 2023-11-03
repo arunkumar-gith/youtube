@@ -9,6 +9,10 @@ https://youtube-by-ak.netlify.app/
 ### Channel page
 ![Screenshot 2023-11-04 010309](https://github.com/arunkumar-gith/Food-MERN/assets/71975018/f9a890a4-f6fd-49c3-82c1-1d8a200ce43b)
 
+### Search bar 
+![Screenshot 2023-11-04 010531](https://github.com/arunkumar-gith/Food-MERN/assets/71975018/746f0424-46da-4360-8b13-eb396cb9f0da)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
